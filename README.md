@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="ui/mascot.png" width="104" alt="Meme Studio 蓝色大肥鱼">
+  <img src="ui/mascot.png" width="140" alt="Meme Studio 蓝色大肥鱼">
   <h1>Meme Studio · 表情工作台</h1>
   <p><strong>让 AI 找到表情，也读懂表情。</strong></p>
   <p>定期采集 · 语义标注 · 对话选图 · 本地图库</p>
