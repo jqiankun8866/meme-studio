@@ -1,0 +1,13 @@
+node_modules/
+.env*
+private/
+data/
+*.sqlite*
+*.log
+__pycache__/
+
+vision.json
+panel-access.json
+panel.lock
+browser-profile/
+memes/
